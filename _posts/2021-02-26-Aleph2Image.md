@@ -4,7 +4,7 @@
 ![A painting of a building (possibly in my area?)](/images/EujAWlfUUAI_PuA.png)
 
 For the last month or so, I've been working on text-to-image using pretrained models. The repeating theme of this work is using different networks to generate 
-images from a given description by matching the images' and description's agreement using a neural netowrk called CLIP. 
+images from a given description by matching the images' and description's agreement using a neural network called CLIP. 
 
 For those who don't know, CLIP is a model that was originally intended for doing things like
 searching for the best match to a description like "a dog playing the violin" among a number of images. By pairing a network that can produce images (a "generator" of some sort)
