@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Advadnoun"
   avatar           : "c87e80b7-4856-4f52-ae71-81b96205d6c5.png"
-  bio              : ""
-  location         : "GitHub Pages, ya"
+  bio              : #""
+  location         : #"GitHub Pages, ya"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           : #""
+  googlescholar    : #""
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : ""
+  orcid            : #""
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
