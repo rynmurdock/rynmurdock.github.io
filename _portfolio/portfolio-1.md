@@ -1,6 +1,6 @@
 ---
 title: "Not a lot of time"
-excerpt: "The first published CLIP-guided image.<br/><img src='images/download - 2021-01-07T202345.189.png'>"
+excerpt: "The first published CLIP-guided image.<br/>![something captionable](https://rynmurdock.github.io/images/clock.png)"
 collection: portfolio
 ---
 
