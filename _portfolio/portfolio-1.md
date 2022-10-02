@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Not a lot of time"
+excerpt: "The first published CLIP-guided image.<br/><img src='rynmurdock.github.io/images/download - 2021-01-07T202345.189.png'>"
 collection: portfolio
 ---
 
-I'm going to set this up I swear I promise I swear
+Made in early 2021, days after the release of CLIP using a SIREN network CPPN.
