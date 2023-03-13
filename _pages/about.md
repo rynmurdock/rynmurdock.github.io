@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-# Writings by Advadnoun.
+# Writings by Advadnoun
 
-I'm a Machine Learning researcher and engineer interested in art, psychology, linguistics, vision, and many other topics. Read my Blog Posts?
+I'm a Machine Learning Researcher and Engineer interested in art, psychology, linguistics, vision, and other topics.
+
+Feel free to view a small selection of my art & thoughts in the Portfolio and Blog Posts above. 
+
+See the side panel for ways to find more of my research.
