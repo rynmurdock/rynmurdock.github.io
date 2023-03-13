@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-# Writings by Advadnoun
+### 
 
-I'm a Machine Learning Researcher and Engineer interested in art, psychology, linguistics, vision, and other topics.
+Personal site for work by r.j. Murdock, alias Adverb; Machine Learning Researcher and Engineer interested in art, psychology, linguistics, vision, and others.
 
 Feel free to view a small selection of my art & thoughts in the Portfolio and Blog Posts above. 
 
