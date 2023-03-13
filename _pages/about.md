@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-### 
 
 Personal site for work by r.j. Murdock, alias Adverb; Machine Learning Researcher and Engineer interested in art, psychology, linguistics, vision, and others.
 
