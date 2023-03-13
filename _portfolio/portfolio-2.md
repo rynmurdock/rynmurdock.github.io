@@ -10,12 +10,12 @@ collection: portfolio
 
 There is a walk in dimming light; a brook; the empty arches 
 with lights always on.
-&Newline;  
+<br/>
+
 Designed below a tree for dark red fruit,
 Thalia, a brook could sweep me away.```
 
 
-
-&Newline;  
-&Newline;  
+<br/>
+<br/>
 Made using an updated BigSleep, built on BigGAN & CLIP.
