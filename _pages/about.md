@@ -11,6 +11,6 @@ redirect_from:
 
 Personal site for work by r.j. Murdock, alias Adverb; Machine Learning Researcher and Engineer interested in art, psychology, linguistics, vision, and others.
 
-Feel free to view a small selection of my art & thoughts in the Portfolio and Blog Posts above. 
+Feel free to read a slice of my thoughts in the Blog Posts section above -- sparse right now, but follow with RSS or Twitter if you'd like!
 
 See the side panel for ways to find more of my research.
