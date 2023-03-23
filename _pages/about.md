@@ -37,6 +37,6 @@ Also see my Google Scholar profile in the side panel for ways to find more of my
 
 
 
-Note: I'm mis-cited as “Murdoch” in some publications and media. My account is also referenced as a “Twitter bot” in some articles, including a separate Vice article to the one seen above. I would like to assure the reader I'm human ;)
+Note: I'm mis-cited as “Murdoch” in some publications and media. My account is also referenced as a “Twitter bot” in some articles, including a separate Vice article to the one seen above. I would like to assure the reader I'm human.
 
 
