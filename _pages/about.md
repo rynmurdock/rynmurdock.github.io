@@ -18,8 +18,7 @@ Feel free to read a slice of my thoughts in the Blog Posts section above -- it's
 
 # Selected links of Note
 
-See my Google Scholar profile in the side panel for ways to find more of my research on Materials Informatics, Psycholinguistics, Vision Pyschology, and art. 
-
+Also see my Google Scholar profile in the side panel for ways to find more of my research on Materials Informatics, Psycholinguistics, Vision Pyschology, and art along with selected links below.
 
 ## BigSleep Citations
 * DALL-E2 [32]: [https://cdn.openai.com/papers/dall-e-2.pdf](https://cdn.openai.com/papers/dall-e-2.pdf)
