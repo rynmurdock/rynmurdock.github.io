@@ -32,11 +32,11 @@ Also see my Google Scholar profile on the side panel for more of my research; th
 
 ## BigSleep Citations
 * DALL-E2 [32]: [dall-e-2.pdf](https://cdn.openai.com/papers/dall-e-2.pdf)
-* Diffusion Models Beat GANs [2]: [arxiv abstract 2105.05233](https://arxiv.org/abs/2105.05233)
+* Diffusion Models Beat GANs [2]: [arxiv-abs-2105.05233](https://arxiv.org/abs/2105.05233)
 * StyleCLIP [37]: [Text-Driven-Manipulation-StyleGAN.pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/Patashnik_StyleCLIP_Text-Driven_Manipulation_of_StyleGAN_Imagery_ICCV_2021_paper.pdf)
 
 ## LatentVisions Acknowledgement
-* From the VQGAN+CLIP paper: [arxiv.org abstract 2204.08583](https://arxiv.org/abs/2204.08583)
+* From the VQGAN+CLIP paper: [arxiv-abs-2204.08583](https://arxiv.org/abs/2204.08583)
 
 ## Seen in
 * The New Yorker: [appreciating-the-poetic-misunderstandings-of-ai-art](https://www.newyorker.com/culture/infinite-scroll/appreciating-the-poetic-misunderstandings-of-ai-art)
