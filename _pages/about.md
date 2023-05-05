@@ -9,16 +9,17 @@ redirect_from:
 ---
 
 
-Hi, and welcome to my personal site! 
 
 I go by Advadnoun on Twitter but my given name is Ryan Murdock. 
 
-Most of my recent work is in machine learning research and engineering, with a focus on text-to-image, where I've done foundational research along with working on large-scale text-to-image projects that you may have heard of. 
-I also have interests & work within art, psychology, linguistics, vision, and others. 
+Most of my recent work is in Machine Learning Research and Engineering, with a focus on text-to-image systems, where I've done foundational research and worked on large-scale generative Machine Learning projects that you may have heard of. 
+
+
+I'm also interested in & have worked in areas of art, psychology, linguistics, & visual search. 
 
 Formerly affiliated with the University of Utah, my Patreon, & Adobe. 
 
-Feel free to read a slice of my thoughts in the Blog Posts section above -- it's sparse right now, but follow with RSS or Twitter if you'd like :) 
+Feel free to read a slice of my thoughts in the Blog Posts section above -- it's sparse right now, but follow with RSS or on Twitter if you'd like :) 
 I'm also planning on updating my Portfolio for art in the next while. 
 
 
