@@ -10,8 +10,8 @@ redirect_from:
 
 
 
-I go by Advadnoun on Twitter but my given name is Ryan Murdock. 
-Most of my recent work is in Machine Learning Research and Engineering, with a focus on text-to-image systems, where I've done foundational research and worked on large-scale generative Machine Learning projects that you may have heard of. 
+I go by Advadnoun on Twitter but my given name is Ryan Murdock.
+Most of my recent work is in Machine Learning, with a focus on text-to-image systems, where I've done foundational research and worked on large-scale text-to-image projects that you may have heard of. 
 
 I'm especially interested in projects that:
 * Mitigate representational bias & other potential harms from generative models at the levels of data, training, inference, & UI,
@@ -19,7 +19,7 @@ I'm especially interested in projects that:
 * Lower barriers to access to ML systems posed by data-efficiency issues and compute-requirements, and
 * Adapt ML models for creative uses.
 
-I'm also interested in & have worked in areas of art, psychology, linguistics, & visual search. 
+I'm also interested in & have worked in areas of Art, Psychology, Linguistics, Visual Search, & Materials Informatics. 
 
 Formerly affiliated with the University of Utah, my Patreon, & Adobe. 
 
