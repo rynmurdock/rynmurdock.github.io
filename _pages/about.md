@@ -13,6 +13,10 @@ redirect_from:
 I go by Advadnoun on Twitter but my given name is Ryan Murdock. 
 Most of my recent work is in Machine Learning Research and Engineering, with a focus on text-to-image systems, where I've done foundational research and worked on large-scale generative Machine Learning projects that you may have heard of. 
 
+I'm especially interested in projects that:
+* Address harms, representational bias, & other issues arising from text-to-image models,
+* Improve the expressivity & text alignment of text-to-image models, and
+* Adapt ML models for creative uses.
 
 
 I'm also interested in & have worked in areas of art, psychology, linguistics, & visual search. 
@@ -29,7 +33,7 @@ Also see my Google Scholar profile on the side panel for more of my research; th
 ## BigSleep Citations
 * DALL-E2 [32]: [dall-e-2.pdf](https://cdn.openai.com/papers/dall-e-2.pdf)
 * Diffusion Models Beat GANs [2]: [arxiv abstract 2105.05233](https://arxiv.org/abs/2105.05233)
-* StyleCLIP [37]: [Text-Driven_Manipulation_of_StyleGAN_Imagery_ICCV_2021_paper.pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/Patashnik_StyleCLIP_Text-Driven_Manipulation_of_StyleGAN_Imagery_ICCV_2021_paper.pdf)
+* StyleCLIP [37]: [Text-Driven-Manipulation-StyleGAN.pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/Patashnik_StyleCLIP_Text-Driven_Manipulation_of_StyleGAN_Imagery_ICCV_2021_paper.pdf)
 
 ## LatentVisions Acknowledgement
 * From the VQGAN+CLIP paper: [arxiv.org abstract 2204.08583](https://arxiv.org/abs/2204.08583)
