@@ -29,17 +29,17 @@ I'm also planning on updating my Portfolio for art in the next while.
 Also see my Google Scholar profile on the side panel for more of my research; the links below are largely unlisted there due to being on Twitter or in media.
 
 ## BigSleep Citations
-* DALL-E2 [32]: [https://cdn.openai.com/papers/dall-e-2.pdf](https://cdn.openai.com/papers/dall-e-2.pdf)
-* Diffusion Models Beat GANs [2]: [https://arxiv.org/abs/2105.05233](https://arxiv.org/abs/2105.05233)
-* StyleCLIP [37]: [https://openaccess.thecvf.com/content/ICCV2021/papers/Patashnik_StyleCLIP_Text-Driven_Manipulation_of_StyleGAN_Imagery_ICCV_2021_paper.pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/Patashnik_StyleCLIP_Text-Driven_Manipulation_of_StyleGAN_Imagery_ICCV_2021_paper.pdf)
+* DALL-E2 [32]: [dall-e-2.pdf](https://cdn.openai.com/papers/dall-e-2.pdf)
+* Diffusion Models Beat GANs [2]: [arxiv abstract 2105.05233](https://arxiv.org/abs/2105.05233)
+* StyleCLIP [37]: [Text-Driven_Manipulation_of_StyleGAN_Imagery_ICCV_2021_paper.pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/Patashnik_StyleCLIP_Text-Driven_Manipulation_of_StyleGAN_Imagery_ICCV_2021_paper.pdf)
 
 ## LatentVisions Acknowledgement
-* From the VQGAN+CLIP paper: [https://arxiv.org/abs/2204.08583](https://arxiv.org/abs/2204.08583)
+* From the VQGAN+CLIP paper: [arxiv.org abstract 2204.08583](https://arxiv.org/abs/2204.08583)
 
 ## Seen in
-* The New Yorker: [https://www.newyorker.com/culture/infinite-scroll/appreciating-the-poetic-misunderstandings-of-ai-art](https://www.newyorker.com/culture/infinite-scroll/appreciating-the-poetic-misunderstandings-of-ai-art)
-* The Register: [https://www.theregister.com/2022/08/01/david_holz_midjourney/](https://www.theregister.com/2022/08/01/david_holz_midjourney/)
+* The New Yorker: [appreciating-the-poetic-misunderstandings-of-ai-art](https://www.newyorker.com/culture/infinite-scroll/appreciating-the-poetic-misunderstandings-of-ai-art)
+* The Register: [david_holz_midjourney/](https://www.theregister.com/2022/08/01/david_holz_midjourney/)
 * Vox on Text-Guided Visual Art: [https://youtu.be/sFBfrZ-N3G4](https://youtu.be/sFBfrZ-N3G4) (Easter egg: I'm sitting on the floor :D)
-* Vice: [https://www.vice.com/en/article/n7bqj7/ai-generated-art-scene-explodes-as-hackers-create-groundbreaking-new-tools](https://www.vice.com/en/article/n7bqj7/ai-generated-art-scene-explodes-as-hackers-create-groundbreaking-new-tools)
+* Vice: [ai-generated-art-scene-explodes-as-hackers-create-groundbreaking-new-tools](https://www.vice.com/en/article/n7bqj7/ai-generated-art-scene-explodes-as-hackers-create-groundbreaking-new-tools)
 
 
