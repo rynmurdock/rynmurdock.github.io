@@ -13,7 +13,7 @@ redirect_from:
 I go by Advadnoun on Twitter but my given name is Ryan Murdock.
 
 
-Most of my recent work is in Machine Learning, with a focus on text-to-image systems, where I've done foundational research and worked on large-scale text-to-image projects that you may have heard of. 
+Most of my recent work is in Machine Learning with a focus on text-to-image systems where I've done foundational research -- and worked on large-scale text-to-image projects that you may have heard of. 
 
 I'm especially interested in projects that:
 * Mitigate representational bias & other potential harms from generative models at the levels of data, training, inference, & UI,
