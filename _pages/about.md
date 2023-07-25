@@ -26,6 +26,8 @@ I'm especially interested in projects that:
 
 I'm also interested in & have worked in areas of Art, Psychology, Linguistics, Visual Search, & Materials Informatics. 
 
+For inquiries, contact rynmurdock(at)gmail[dot]com
+
 Feel free to read a slice of my thoughts in the Blog Posts section above -- it's sparse right now, but follow with RSS or on Twitter if you'd like :) 
 I'm also planning on updating my Portfolio for art in the next while. 
 
