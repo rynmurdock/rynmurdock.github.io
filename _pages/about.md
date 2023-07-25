@@ -15,6 +15,9 @@ I go by Advadnoun on Twitter but my given name is Ryan Murdock.
 
 Most of my recent work is in Machine Learning with a focus on text-to-image systems where I've done foundational research -- and worked on large-scale text-to-image projects that you may have heard of. 
 
+Formerly affiliated with the University of Utah, my Patreon, & Adobe. I'm currently in residency at Stochastic Labs until the beginning of October.
+
+
 I'm especially interested in projects that:
 * Mitigate representational bias & other potential harms from generative models at the levels of data, training, inference, & UI,
 * Improve the expressivity & text alignment of text-to-image models, 
@@ -22,8 +25,6 @@ I'm especially interested in projects that:
 * Adapt ML models for creative uses.
 
 I'm also interested in & have worked in areas of Art, Psychology, Linguistics, Visual Search, & Materials Informatics. 
-
-Formerly affiliated with the University of Utah, my Patreon, & Adobe. 
 
 Feel free to read a slice of my thoughts in the Blog Posts section above -- it's sparse right now, but follow with RSS or on Twitter if you'd like :) 
 I'm also planning on updating my Portfolio for art in the next while. 
