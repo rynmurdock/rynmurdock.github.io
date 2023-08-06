@@ -15,7 +15,7 @@ I go by Advadnoun on Twitter but my given name is Ryan Murdock.
 
 Most of my recent work is in Machine Learning with a focus on text-to-image systems where I've done foundational research -- and worked on large-scale text-to-image projects that you may have heard of. 
 
-Formerly affiliated with the University of Utah, my Patreon, & Adobe. I'm currently in residency at Stochastic Labs until the beginning of October.
+Formerly affiliated with the University of Utah, my Patreon (https://www.patreon.com/patronizeme), & Adobe. I'm currently in residency at Stochastic Labs until the beginning of October.
 
 
 I'm especially interested in projects that:
