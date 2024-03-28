@@ -15,21 +15,23 @@ I go by Advadnoun on Twitter but my given name is Ryan Murdock.
 
 Most of my recent work is in Machine Learning with a focus on text-to-image systems where I've done foundational research -- and worked on large-scale text-to-image projects that you may have heard of. 
 
-Formerly affiliated with the University of Utah, my Patreon (https://www.patreon.com/patronizeme), & Adobe. I'm currently in residency at Stochastic Labs until the beginning of October.
+Formerly affiliated with the University of Utah, my Patreon (https://www.patreon.com/patronizeme), & Adobe, I'm currently working as a researcher at Leonardo.
+
+I have also been in residency at Stochastic Labs & have done consulting work for Kaiber.
 
 
 I'm especially interested in projects that:
 * Mitigate representational bias & other potential harms from generative models at the levels of data, training, inference, & UI,
 * Improve the expressivity & text alignment of text-to-image models, 
 * Lower barriers to access to ML systems posed by data-efficiency issues and compute-requirements, and
-* Adapt ML models for creative uses.
+* Adapt ML models for creative uses in ways that are process-focused, weird, &/or focus on individual aesthetics. 
 
-I'm also interested in & have worked in areas of Art, Psychology, Linguistics, Visual Search, & Materials Informatics. 
+I'm also interested in & have worked in the areas of Art, Psychology, Linguistics, Visual Search, & Materials Informatics. 
 
 For inquiries, contact rynmurdock(at)gmail[dot]com
 
 Feel free to read a slice of my thoughts in the Blog Posts section above -- it's sparse right now, but follow with RSS or on Twitter if you'd like :) 
-I'm also planning on updating my Portfolio for art in the next while. 
+I'm also planning on updating my Portfolio for art eventually. 
 
 # Selected links of Note
 
