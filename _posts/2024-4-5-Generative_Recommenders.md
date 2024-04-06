@@ -110,13 +110,13 @@ impactful tech less harmful and more useful.
 
 
 ----
-Thanks to Joel Simon (https://joelsimon.net/) for general feedback along with thoughts & suggestions regarding monocultures of style & inspecting user embeddings' similarity.
+Thanks to Joel Simon (https://joelsimon.net/) for general feedback along with thoughts & suggestions regarding monocultures of style & inspecting user embeddings' similarity. Thanks to Max Bittker (https://maxbittker.com/) for discussion on roaming the latent space at Stochastic.
 
 Thanks to Aaron Hertzmann for pointing me towards classic work on collaborative filtering for image aesthetics.
 
 This work was done in part during my residency at Stochastic Labs (https://stochasticlabs.org/) and also during my employment at Leonardo.AI.
 
-See https://github.com/rynmurdock/generative_recommender for code. I may add a Gradio for iteratively incorporating generated images without feedback later on.
+See https://github.com/rynmurdock/generative_recommender for code. I've also added a Gradio for iteratively incorporating generated images without collaboration. 
 I've been lightly wireheading on the gradio for a few months now. 
 
 I may have more thoughts on this through the lens of personalization 
