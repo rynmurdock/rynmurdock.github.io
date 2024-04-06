@@ -121,7 +121,7 @@ I've been lightly wireheading on the gradio for a few months now.
 
 I may have more thoughts on this through the lens of personalization 
 (There are interesting critiques surrounding, essentially, providing media that is never challenging posed by Cat Manning & others.) 
-later on.
+later on. See https://dl.acm.org/doi/pdf/10.1145/3479553 if you're interested in some related analysis. 
 
 If you feel like I've left something out, feel free to contact me over email. :) 
 
