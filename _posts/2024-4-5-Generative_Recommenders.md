@@ -31,8 +31,8 @@ explicit prompting and a return to artist-as-curator or explorer, and the condit
 This return to un-prompted generation is elicited in part by dissatisfaction with existing methods' grand-average default aesthetics and by my (over)use of TikTok. 
 
 While previous work on personalizing models based on collaborative filtering exists (e.g. https://ieeexplore.ieee.org/abstract/document/5995439) and shows that personalized aesthetics 
-can improve upon using only averages, and while previous work exists for personalizing models using iterative feedback within the space of inputs (https://arxiv.org/abs/2402.06389), 
-the approach described here could allow for scalable systems capable of working similarly to existing social media ecosystems with purely generated media. 
+can improve upon using only averages, and while previous work exists for personalizing models using iterative feedback within the space of inputs (https://arxiv.org/abs/2402.06389) or leverages optimization approaches with recommenders for visualizing user embeddings (https://arxiv.org/abs/1711.02231), 
+the approach described here could allow for fast, scalable systems capable of working similarly to existing social media ecosystems with purely generated media. 
 
 # Collaborative Filtering for Generative Recommendation
 
