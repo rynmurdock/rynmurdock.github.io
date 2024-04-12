@@ -6,11 +6,13 @@ tags:
   - wireheading
 ---
 
-## Zahir: Generative Recommenders for Unprompted Scalable Exploration
+## Zahir: Generative Recommenders for Unprompted, Scalable Exploration
 
 > #### To have one’s mind devoured by coins, that is a terrible fate
 
 ##### -- Jorge Luis Borges
+
+
 
 ![An image generated using iterative feedback without collaboration](https://rynmurdock.github.io/images/Untitl56321ed.png)
 
