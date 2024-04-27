@@ -50,6 +50,6 @@ Also see my Google Scholar profile on the side panel for more of my research; th
 * The Register: [David_Holz_Midjourney](https://www.theregister.com/2022/08/01/david_holz_midjourney/)
 * Vox on Text-Guided Visual Art: [https://youtu.be/sFBfrZ-N3G4](https://youtu.be/sFBfrZ-N3G4) (Easter egg: I'm sitting on the floor :D)
 * Vice: [AI-generated art scene explodes as hackers create groundbreaking new tools](https://www.vice.com/en/article/n7bqj7/ai-generated-art-scene-explodes-as-hackers-create-groundbreaking-new-tools)
-* artnet: [Surrealism in the Age of AI](https://www.artnews.com/list/art-news/artists/surrealism-and-artificial-intelligence-art-1234704046/this-is-not-a-pipe-why-do-ai-images-look-surreal/)
+* ARTnews: [Surrealism in the Age of AI](https://www.artnews.com/list/art-news/artists/surrealism-and-artificial-intelligence-art-1234704046/this-is-not-a-pipe-why-do-ai-images-look-surreal/)
 
 
