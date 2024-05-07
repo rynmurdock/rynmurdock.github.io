@@ -51,5 +51,5 @@ Also see my Google Scholar profile on the side panel for more of my research; th
 * Vox on Text-Guided Visual Art: [https://youtu.be/sFBfrZ-N3G4](https://youtu.be/sFBfrZ-N3G4) (Easter egg: I'm sitting on the floor :D)
 * Vice: [AI-generated art scene explodes as hackers create groundbreaking new tools](https://www.vice.com/en/article/n7bqj7/ai-generated-art-scene-explodes-as-hackers-create-groundbreaking-new-tools)
 * ARTnews: [Surrealism in the Age of AI](https://www.artnews.com/list/art-news/artists/surrealism-and-artificial-intelligence-art-1234704046/this-is-not-a-pipe-why-do-ai-images-look-surreal/)
-
+* Artificial Intelligence in Architecture -- Architectural Design: [Machine Hands on Flaws to Machine: The Surprising Sources of Biases in Machine Learning Models](https://onlinelibrary.wiley.com/toc/15542769/2024/94/3)
 
