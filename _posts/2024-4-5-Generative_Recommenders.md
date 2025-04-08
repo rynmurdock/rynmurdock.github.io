@@ -76,7 +76,7 @@ produces results that quickly hone into areas of latent space that I find compel
 
 ![An image generated using iterative feedback without collaboration](https://rynmurdock.github.io/images/U1234ntitled.png)
 
-(An image generated using iterative feedback without collaboration; the text-to-image model is Kandinsky, although IP Adapter & other methods work as well.)
+*An image generated using iterative feedback without collaboration; the text-to-image model is Kandinsky, although IP Adapter & other methods work as well.*
 
 Scaling this sort of system is beyond the scope of this work and would require a larger dataset & optimizations to the WALS implementation, but collaborative filtering is commonly 
 deployed at scale, so I would expect the implementation of this kind of system to be possible across large existing sets of data held by groups focused on image generation & with varied 
@@ -90,7 +90,7 @@ rating several hundred images over the course of an evening to feed into DPO (ht
 
 ![From my DPO experiment](https://rynmurdock.github.io/images/dpope.png)
 
-(An image from my DPO experiment.)
+*An image from my DPO experiment.*
 
 What's somewhat surprising to me is that sinking hours into this type of work hasn't made me enjoy the process less, and that I have a sense of authorship that's comparable to or 
 greater than when I craft a prompt for even an hour. Ideally, methods like this may allow us to escape the confines of aesthetics that are smooth, one-size-fits-all, corporate, and 
