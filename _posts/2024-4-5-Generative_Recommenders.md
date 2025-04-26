@@ -56,7 +56,7 @@ This method of producing directions directly in CLIP latent space can also be do
 GANSpace (https://arxiv.org/abs/2004.02546) in some respects, and was introduced to me by Joel Simon. 
 
 Most open image-preference datasets do not have recorded user IDs, and when they do there is rarely overlap in ratings of images -- 
-FLICKR-AES (https://openaccess.thecvf.com/content_ICCV_2017/papers/Ren_Personalized_Image_Aesthetics_ICCV_2017_paper.pdf) is a nice exception & was used here for that reason. While this 
+[FLICKR-AES](https://openaccess.thecvf.com/content_ICCV_2017/papers/Ren_Personalized_Image_Aesthetics_ICCV_2017_paper.pdf) is a nice exception & was used here for that reason. While this 
 dataset is made up of real images, this same approach could be used solely with generated images or a mix thereof.
 
 One could imagine a process where images are generated; they're rated; and then new images can be generated based on those ratings without intervention, all the while learning 
