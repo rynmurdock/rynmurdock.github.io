@@ -12,9 +12,9 @@ redirect_from:
 
 My recent work is primarily in Machine Learning with a focus on generative models where I've done foundational research on text-to-image -- and worked on large-scale projects that you may have heard of.
 
-Formerly affiliated with the University of Utah, my Patreon (https://www.patreon.com/patronizeme), & Adobe, I'm currently working as a researcher at Canva / Leonardo :)
+Formerly affiliated with the University of Utah, my Patreon, & Adobe; I'm currently working as a researcher at Canva / Leonardo :)
 
-I also spent time in residency at Stochastic Labs & consulted for Kaiber.
+I've also spent time in residency at Stochastic Labs & have consulted for Kaiber.
 
 
 I'm especially interested in projects that:
@@ -22,9 +22,9 @@ I'm especially interested in projects that:
 * Lower barriers to access to ML systems posed by data-efficiency issues and compute-requirements, and
 * Adapt ML models for creative uses in ways that are process-focused, weird, &/or focus on individual aesthetics. 
 
-I'm also interested in & have worked in Psychology, Linguistics, Art, Human & Computer Vision, and Materials Informatics. 
+I'm also interested in & have worked in Art, Psychology, Linguistics, Human & Computer Vision, and Materials Informatics. 
 
-For inquiries, contact rynmurdock(at)gmail[dot]com
+For inquiries, contact rynmurdock(at)gmail[dot]com -- note that the lack of an "a" is correct :)
 
 # Selected links of Note
 
