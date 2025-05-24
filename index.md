@@ -46,5 +46,5 @@ Also see my Google Scholar profile (https://scholar.google.com/citations?user=L2
 * ARTnews: [Surrealism in the Age of AI](https://www.artnews.com/list/art-news/artists/surrealism-and-artificial-intelligence-art-1234704046/this-is-not-a-pipe-why-do-ai-images-look-surreal/)
 * Artificial Intelligence in Architecture -- Architectural Design: [Machine Hands on Flaws to Machine: The Surprising Sources of Biases in Machine Learning Models](https://onlinelibrary.wiley.com/toc/15542769/2024/94/3)
 * A Collaboration with Joel Simon: [New Words](https://www.joelsimon.net/new-words)
-* All Media is Training Data by Holly Herndon and Mat Dryhurst: Contributed essay on Subjective Models -- I have a write-up on this very site about [Generative Recommenders](https://rynmurdock.github.io/writing/generative_recommenders.md), an idea about directly generating media using preference data / taste, which I talk about in the essay.
+* All Media is Training Data by Holly Herndon and Mat Dryhurst: Contributed essay on Subjective Models -- (I have a write-up on this very site about [Generative Recommenders](https://rynmurdock.github.io/writing/generative_recommenders.md).)
 
