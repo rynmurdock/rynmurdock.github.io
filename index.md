@@ -10,11 +10,11 @@ redirect_from:
 
 
 
-My recent work is primarily in Machine Learning with a focus on generative models where I've done foundational research on text-to-image -- and worked on large-scale projects that you may have heard of.
+My recent work is primarily in Machine Learning with focus on generative models, where I've done foundational research on text-to-image systems -- and worked on large-scale projects that you may have heard of.
 
 Formerly affiliated with the University of Utah, my Patreon, & Adobe; I'm currently working as a researcher at Canva / Leonardo :)
 
-I've also spent time in residency at Stochastic Labs & have consulted for Kaiber.
+I've also spent time in residency at Stochastic Labs & consulted for Kaiber.
 
 
 I'm especially interested in projects that:
