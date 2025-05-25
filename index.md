@@ -28,7 +28,7 @@ For inquiries, contact rynmurdock(at)gmail[dot]com -- note that the lack of an "
 
 # Selected links of Note
 
-Also see my Google Scholar profile (https://scholar.google.com/citations?user=L2Fmp1AAAAAJ&hl=en) for more of my research; the links below are largely unlisted there due to being on Twitter or in media.
+Also see my [Google Scholar profile](https://scholar.google.com/citations?user=L2Fmp1AAAAAJ&hl=en) for more of my research; the links below are largely unlisted there due to being on Twitter or in media.
 
 ## BigSleep Citations
 * DALL-E2 [32]: [dall-e-2.pdf](https://cdn.openai.com/papers/dall-e-2.pdf)
