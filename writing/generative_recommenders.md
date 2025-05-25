@@ -115,6 +115,12 @@ and I've started to realize that stifling ideas like text-to-image in their crad
 individual artists, researchers, and engineers can do: let some light in, contribute to open projects, and do our best to steer as well as we can, while pushing to make 
 impactful tech less harmful and more useful. 
 
+# Related work (Revision 5/25/2025)
+
+Returning to this idea, I've found and read through more previous work, including [Generative Recommendation: Towards Next-generation Recommender Paradigm
+](https://arxiv.org/abs/2304.03516), which is especially relevant & conditions model edits, generation, and retrieval on instructions, user embeddings from existing recommender systems, and averaged CLIP embeddings. This approach decouples generation from the recommender systems, which allows for models that are trained specifically for predicting from preferrence data. 
+
+While this approach allows for creating models specifically trained to predict from preferrence data, in the case of user embeddings from a separate recommender system, this could require re-training to account for drift over time. In the case of averaged CLIP embeddings, the approach is similar to this work, though I'd expect important information to be lost in the averaging. Conditioning on a sequence of representaions of preferred media seems like a promising direction.
 
 
 ----
