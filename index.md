@@ -26,7 +26,7 @@ I'm also interested in & have worked in Art, Psychology, Linguistics, Human & Co
 
 For inquiries, contact rynmurdock(at)gmail[dot]com -- note that the lack of an "a" is correct.
 
-# Selected links of Note
+# Selected Links of Note
 
 ## Formal Publications
 
