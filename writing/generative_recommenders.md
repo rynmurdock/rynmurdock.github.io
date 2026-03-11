@@ -158,7 +158,9 @@ can do:
 while pushing to make impactful tech **less harmful and more useful**.
 
 
-# Related work (Revision 5/25/2025)
+# Related work 
+
+### (Revision 5/25/2025)
 
 Returning to this idea, I've found and read through more previous work, including:
 
@@ -180,13 +182,15 @@ In the case of averaged CLIP embeddings, the approach is similar to this work, t
 Conditioning on **a sequence of representations of preferred media** seems like a promising direction.
 
 
-# Follow up work (Revision 6/6/2025)
+# Follow up work 
+
+### (Revision 6/6/2025)
 
 See my **Preference Prior** repo:
 
 https://github.com/rynmurdock/preference-prior
 
-for an example of a model conditioning on a sequence of preferred media embeddings in order to produce a left-out embedding of preferred media.
+for an example of a model conditioning on a sequence of preferred media embeddings in order to produce a left-out embedding of preferred media. This method explicitly models the mapping between user preference to generated media based on user interaction histories as opposed to old-fashioned matrix factorization, hoping to learn more complex relationships.
 
 
 # Acknowledgements
@@ -201,17 +205,6 @@ This work was done in part during my residency at **Stochastic Labs**
 https://stochasticlabs.org/
 
 and also during my employment at **Leonardo.AI**.
-
-
-# Code
-
-See the repository:
-
-https://github.com/rynmurdock/generative_recommender
-
-I've also added a **Gradio** interface for iteratively incorporating generated images without collaboration.
-
-I've been lightly *wireheading* on the gradio for a few months now.
 
 ---
 
