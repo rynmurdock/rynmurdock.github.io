@@ -1,7 +1,6 @@
 ---
 title: "Generative Recommenders"
 date: 2024-03-30
-permalink: /posts/2024/3/generative_recommenders/
 tags:
   - wireheading
 ---
