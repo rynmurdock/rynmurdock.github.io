@@ -15,10 +15,6 @@ _April 5th, 2024_
 > #### To have one’s mind devoured by coins, that is a terrible fate  
 > - **Jorge Luis Borges**
 
-<figure style="text-align:center;">
-<img src="../images/Untitl56321ed.png" alt="An image generated using iterative feedback without collaboration" style="max-width:500px; width:100%;" />
-</figure>
-
 
 ## tl;dr
 
@@ -27,6 +23,8 @@ Many existing systems for generating media condition on textual descriptions to 
 What does generation look like when we leverage recommendation methods to attempt to synthesize media with styles and scenes that users may be interested in based only on their & their peers' interactions with that media?
 
 Further, what are the implications of this mix between personalization, preference learning, generation, and recommendation -- and how might it be used within an art practice?
+
+<img src="/images/Untitl56321ed.png" alt="An image generated using iterative feedback without collaboration" style="max-width:500px; width:100%;" />
 
 
 # Some Background
@@ -86,7 +84,7 @@ The two images below are generated with IP Adapter from two high-cosine-similari
 
 | | |
 |---|---|
-| <img src="../images/36.png" width="100%"> | <img src="../images/34.png" width="100%"> |
+| <img src="/images/36.png" width="100%"> | <img src="/images/34.png" width="100%"> |
 | User 36 (me) | User 34 |
 
 
@@ -94,10 +92,10 @@ I've gone through and rated images with this setup multiple times, and although 
 
 More importantly, running the system iteratively by using images generated from my user embedding that are then added back into the interaction matrix produces results that quickly hone into areas of latent space that I find compelling, even though I'm rating them at that point without collaboration.
 
-<figure style="text-align:center;">
-<img src="../images/U1234ntitled.png" alt="An image generated using iterative feedback without collaboration" style="max-width:500px; width:100%;" />
-<figcaption>An image generated using iterative feedback without collaboration.</figcaption>
-</figure>
+<img src="/images/U1234ntitled.png" alt="An image generated using iterative feedback without collaboration" style="max-width:500px; width:100%;" />
+
+  
+* An image generated using iterative feedback without collaboration. * 
 
 
 Scaling this sort of system is beyond the scope of this work and would require a larger dataset & optimizations to the WALS implementation, but collaborative filtering is commonly deployed at scale.
@@ -116,10 +114,11 @@ I've found that I've enjoyed the process even with my most data-hungry and least
 - rating several hundred images over the course of an evening to feed into **DPO** (https://arxiv.org/abs/2311.12908)
 - using **DRaFT** (https://arxiv.org/abs/2309.17400) with customized prompts.
 
-<figure style="text-align:center;">
-<img src="../images/dpope.png" style="max-width:500px; width:100%;" />
-<figcaption>An image from my DPO experiment.</figcaption>
-</figure>
+
+<img src="/images/dpope.png" style="max-width:500px; width:100%;" />
+
+An image from my DPO experiment.
+
 
 What's somewhat surprising to me is that sinking hours into this type of work hasn't made me enjoy the process less, and that I have a sense of authorship that's comparable to or greater than when I craft a prompt for even an hour.
 
