@@ -1,43 +1,92 @@
-
 <!DOCTYPE html>
 <html>
 <head>
   <meta charset="UTF-8">
   <title>Rite</title>
-  <script src="https://cdn.jsdelivr.net/npm/latex.js/dist/latex.min.js"></script>
+  <script src="https://raw.githubusercontent.com/rynmurdock/text-watch-rite-tex/refs/heads/main/text.pdf"></script>
+
   <style>
-    body { max-width: 800px; margin: 40px auto; font-family: serif; }
-    h2 { color: #222; }
+    body {
+      margin: 0;
+      background: #111;
+      display: flex;
+      justify-content: center;
+    }
+
+    #viewer {
+      margin-top: 20px;
+    }
+
+    canvas {
+      display: block;
+      margin-bottom: 20px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.5);
+      background: white;
+    }
   </style>
 </head>
 <body>
 
-<h2>Rite</h2>
-<div id="content">Loading...</div>
+<div id="viewer"></div>
 
 <script>
-const TEX_URL = "https://raw.githubusercontent.com/rynmurdock/text-watch-rite-tex/refs/heads/main/text.tex";
+const PDF_URL = "https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/doc.pdf";
 
-async function fetchAndRender() {
+let lastModified = null;
+let pdfDoc = null;
+
+async function renderPDF() {
   try {
-    const res = await fetch(TEX_URL + "?t=" + Date.now());
-    const latex = await res.text();
+    const loadingTask = pdfjsLib.getDocument(PDF_URL + "?t=" + Date.now());
+    pdfDoc = await loadingTask.promise;
 
-    const generator = new latexjs.HtmlGenerator({ hyphenate: false });
+    const viewer = document.getElementById("viewer");
+    viewer.innerHTML = "";
 
-    latexjs.parse(latex, { generator });
+    for (let pageNum = 1; pageNum <= pdfDoc.numPages; pageNum++) {
+      const page = await pdfDoc.getPage(pageNum);
+      const viewport = page.getViewport({ scale: 1.5 });
 
-    const content = document.getElementById("content");
-    content.innerHTML = "";
-    content.appendChild(generator.domFragment());
+      const canvas = document.createElement("canvas");
+      const context = canvas.getContext("2d");
 
-  } catch (e) {
-    console.error("Error fetching or parsing:", e);
+      canvas.width = viewport.width;
+      canvas.height = viewport.height;
+
+      viewer.appendChild(canvas);
+
+      await page.render({
+        canvasContext: context,
+        viewport: viewport
+      }).promise;
+    }
+
+    console.log("PDF rendered");
+  } catch (err) {
+    console.error("Render error:", err);
   }
 }
 
-fetchAndRender();
-setInterval(fetchAndRender, 2000);
+async function checkForUpdate() {
+  try {
+    const res = await fetch(PDF_URL, { method: "HEAD" });
+    const newModified = res.headers.get("Last-Modified");
+
+    if (!lastModified || newModified !== lastModified) {
+      lastModified = newModified;
+      console.log("PDF updated, reloading...");
+      renderPDF();
+    }
+  } catch (err) {
+    console.error("HEAD check failed:", err);
+  }
+}
+
+// initial load
+renderPDF();
+
+// check every 2 seconds
+setInterval(checkForUpdate, 2000);
 </script>
 
 </body>
