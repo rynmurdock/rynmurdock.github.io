@@ -1,0 +1,46 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Rite</title>
+  <script src="https://cdn.jsdelivr.net/npm/latex.js/dist/latex.min.js"></script>
+  <style>
+    body { max-width: 800px; margin: 40px auto; font-family: serif; }
+    h2 { color: #222; }
+  </style>
+</head>
+<body>
+
+<h2>Rite</h2>
+<div id="content">Loading...</div>
+
+<script>
+const TEX_URL = "https://raw.githubusercontent.com/rynmurdock/text-watch-rite-tex/refs/heads/main/text.tex";
+
+async function fetchAndRender() {
+  try {
+    const res = await fetch(TEX_URL + "?t=" + Date.now()); // cache-busting
+    const latex = await res.text();
+
+    const generator = new latexjs.HtmlGenerator();
+    const parser = new latexjs.Parser();
+
+    parser.parse(latex, { generator });
+
+    const content = document.getElementById("content");
+    content.innerHTML = "";
+    content.appendChild(generator.domFragment());
+
+  } catch (e) {
+    console.error("Error fetching or parsing:", e);
+  }
+}
+
+// initial fetch + every 2s
+fetchAndRender();
+setInterval(fetchAndRender, 2000);
+</script>
+
+</body>
+</html>
