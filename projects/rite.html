@@ -20,13 +20,12 @@ const TEX_URL = "https://raw.githubusercontent.com/rynmurdock/text-watch-rite-te
 
 async function fetchAndRender() {
   try {
-    const res = await fetch(TEX_URL + "?t=" + Date.now()); // cache-busting
+    const res = await fetch(TEX_URL + "?t=" + Date.now());
     const latex = await res.text();
 
-    const generator = new latexjs.HtmlGenerator();
-    const parser = new latexjs.Parser();
+    const generator = new latexjs.HtmlGenerator({ hyphenate: false });
 
-    parser.parse(latex, { generator });
+    latexjs.parse(latex, { generator });
 
     const content = document.getElementById("content");
     content.innerHTML = "";
@@ -37,7 +36,6 @@ async function fetchAndRender() {
   }
 }
 
-// initial fetch + every 2s
 fetchAndRender();
 setInterval(fetchAndRender, 2000);
 </script>
