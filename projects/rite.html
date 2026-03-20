@@ -2,90 +2,92 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Rite</title>
-  <script src="https://raw.githubusercontent.com/rynmurdock/text-watch-rite-tex/refs/heads/main/text.pdf"></script>
+  <title>rite</title>
+
+  <script src="https://unpkg.com/pdfjs-dist@3.11.174/build/pdf.min.js"></script>
+  <script>
+    const pdfjsLib = window.pdfjsLib;
+    pdfjsLib.GlobalWorkerOptions.workerSrc =
+      "https://unpkg.com/pdfjs-dist@3.11.174/build/pdf.worker.min.js";
+  </script>
 
   <style>
-    body {
-      margin: 0;
-      background: #111;
-      display: flex;
-      justify-content: center;
-    }
-
-    #viewer {
-      margin-top: 20px;
-    }
-
-    canvas {
-      display: block;
-      margin-bottom: 20px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.5);
-      background: white;
-    }
+    body { margin:0; background:#111; display:flex; justify-content:center; }
+    #viewer { margin-top:20px; }
+    canvas { display:block; margin-bottom:20px; background:white; }
   </style>
 </head>
 <body>
 
 <div id="viewer"></div>
 
+<!-- Off-screen staging area -->
+<div id="staging" style="position:fixed; left:-99999px; top:0; visibility:hidden;"></div>
+
 <script>
-const PDF_URL = "https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/doc.pdf";
+const PDF_URL = "https://raw.githubusercontent.com/rynmurdock/text-watch-rite-tex/refs/heads/main/text.pdf";
 
 let lastModified = null;
-let pdfDoc = null;
+let rendering = false;
 
-async function renderPDF() {
-  try {
-    const loadingTask = pdfjsLib.getDocument(PDF_URL + "?t=" + Date.now());
-    pdfDoc = await loadingTask.promise;
+async function renderToContainer(container) {
+  const pdf = await pdfjsLib.getDocument(PDF_URL + "?t=" + Date.now()).promise;
 
-    const viewer = document.getElementById("viewer");
-    viewer.innerHTML = "";
+  for (let i = 1; i <= pdf.numPages; i++) {
+    const page = await pdf.getPage(i);
+    const viewport = page.getViewport({ scale: 1.5 });
 
-    for (let pageNum = 1; pageNum <= pdfDoc.numPages; pageNum++) {
-      const page = await pdfDoc.getPage(pageNum);
-      const viewport = page.getViewport({ scale: 1.5 });
+    const canvas = document.createElement("canvas");
+    const ctx = canvas.getContext("2d");
+    canvas.width = viewport.width;
+    canvas.height = viewport.height;
+    container.appendChild(canvas);
 
-      const canvas = document.createElement("canvas");
-      const context = canvas.getContext("2d");
-
-      canvas.width = viewport.width;
-      canvas.height = viewport.height;
-
-      viewer.appendChild(canvas);
-
-      await page.render({
-        canvasContext: context,
-        viewport: viewport
-      }).promise;
-    }
-
-    console.log("PDF rendered");
-  } catch (err) {
-    console.error("Render error:", err);
+    await page.render({ canvasContext: ctx, viewport }).promise;
   }
+}
+
+async function updatePDF() {
+  if (rendering) return;
+  rendering = true;
+
+  const staging = document.getElementById("staging");
+  const viewer = document.getElementById("viewer");
+
+  const newContent = document.createElement("div");
+  staging.appendChild(newContent);
+
+  try {
+    await renderToContainer(newContent);
+
+    // Fully rendered off-screen — now swap instantly
+    requestAnimationFrame(() => {
+      viewer.innerHTML = "";
+      while (newContent.firstChild) {
+        viewer.appendChild(newContent.firstChild);
+      }
+      newContent.remove();
+    });
+
+  } catch (e) {
+    console.error("Render failed:", e);
+    newContent.remove();
+  }
+
+  rendering = false;
 }
 
 async function checkForUpdate() {
-  try {
-    const res = await fetch(PDF_URL, { method: "HEAD" });
-    const newModified = res.headers.get("Last-Modified");
+  const res = await fetch(PDF_URL, { method: "HEAD" });
+  const newModified = res.headers.get("Last-Modified");
 
-    if (!lastModified || newModified !== lastModified) {
-      lastModified = newModified;
-      console.log("PDF updated, reloading...");
-      renderPDF();
-    }
-  } catch (err) {
-    console.error("HEAD check failed:", err);
+  if (!lastModified || newModified !== lastModified) {
+    lastModified = newModified;
+    await updatePDF();
   }
 }
 
-// initial load
-renderPDF();
-
-// check every 2 seconds
+updatePDF();
 setInterval(checkForUpdate, 2000);
 </script>
 
