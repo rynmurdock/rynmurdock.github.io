@@ -51,8 +51,15 @@ async function renderToContainer(container) {
   }
 }
 
+let paused = false;
+
+function togglePause() {
+    paused = !paused;
+    document.getElementById("pauseBtn").textContent = paused ? "▶ Resume" : "⏸ Pause";
+}
+
 async function updatePDF() {
-  if (rendering) return;
+  if (rendering || paused) return;
   rendering = true;
 
   const staging = document.getElementById("staging");
@@ -92,8 +99,20 @@ async function checkForUpdate() {
 }
 
 updatePDF();
-setInterval(updatePDF, 200);
+setInterval(updatePDF, 1000);
 </script>
+
+<button id="pauseBtn" onclick="togglePause()" style="
+    position:fixed;
+    top:20px;
+    right:20px;
+    padding:8px 16px;
+    background:#333;
+    color:#fff;
+    border:none;
+    cursor:pointer;
+    font-size:14px;
+">⏸ Pause</button>
 
 </body>
 </html>
