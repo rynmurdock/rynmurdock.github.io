@@ -11,7 +11,7 @@ _April 5th, 2024_
 
 <style>
   body {
-    max-width: 760px;
+    max-width: 900px;
     margin: 60px auto;
     padding: 0 20px;
     line-height: 1.6;
@@ -19,7 +19,6 @@ _April 5th, 2024_
   img {
     display: block;
     margin: 30px auto;
-    max-width: 100%;
     height: auto;
   }
   p, ul, ol, h1, h2, h3, h4, h5, h6 {
@@ -44,7 +43,7 @@ Further, what are the implications of this mix between personalization, preferen
 
 <p align="center">
 <img src="/images/Untitl56321ed.png" alt="An image generated using iterative feedback without collaboration" 
-  style="display:block; margin: 30px auto; max-width:800px; width:100%;" />
+  style="display:block; margin: 30px auto; max-width:900px; width:100%;" />
 </p>
 
 # Some Background
