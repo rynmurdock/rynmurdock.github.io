@@ -24,7 +24,7 @@ What does generation look like when we leverage recommendation methods to attemp
 Further, what are the implications of this mix between personalization, preference learning, generation, and recommendation -- and how might it be used within an art practice?
 
 <p align="center">
-<img src="/images/Untitl56321ed.png" alt="An image generated using iterative feedback without collaboration" style="max-width:500px; width:100%;" />
+<img src="/images/Untitl56321ed.png" alt="An image generated using iterative feedback without collaboration" style="max-width:800px; width:100%;" />
 </p>
 
 # Some Background
@@ -82,12 +82,10 @@ They also have properties that we'd expect, like **clustering**, with users who 
 
 The two images below are generated with IP Adapter from two high-cosine-similarity user embeddings.
 
-<p align="center">
 | | |
 |---|---|
 | <img src="/images/36.png" width="100%"> | <img src="/images/34.png" width="100%"> |
 | User 36 (me) | User 34 |
-</p>
 
 I've gone through and rated images with this setup multiple times, and although the dataset is constrained to photos, I feel that the images generated initially are reasonably within my aesthetic preferences.
 
@@ -95,9 +93,10 @@ More importantly, running the system iteratively by using images generated from 
 
 <p align="center">
 <img src="/images/U1234ntitled.png" alt="An image generated using iterative feedback without collaboration" style="max-width:500px; width:100%;" />
+
+An image generated using iterative feedback without collaboration.
+
 </p>
-  
-* An image generated using iterative feedback without collaboration. * 
 
 
 Scaling this sort of system is beyond the scope of this work and would require a larger dataset & optimizations to the WALS implementation, but collaborative filtering is commonly deployed at scale.
@@ -118,9 +117,11 @@ I've found that I've enjoyed the process even with my most data-hungry and least
 
 <p align="center">
 <img src="/images/dpope.png" style="max-width:500px; width:100%;" />
-</p>
 
 An image from my DPO experiment.
+
+</p>
+
 
 
 What's somewhat surprising to me is that sinking hours into this type of work hasn't made me enjoy the process less, and that I have a sense of authorship that's comparable to or greater than when I craft a prompt for even an hour.
