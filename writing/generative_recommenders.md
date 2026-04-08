@@ -11,7 +11,7 @@ _April 5th, 2024_
 
 <style>
   body {
-    max-width: 900px;
+    max-width: 800px;
     margin: 60px auto;
     padding: 0 20px;
     line-height: 1.6;
@@ -112,7 +112,7 @@ More importantly, running the system iteratively by using images generated from 
 
 <p align="center">
 <img src="/images/U1234ntitled.png" alt="An image generated using iterative feedback without collaboration" 
-  style="display:block; margin: 30px auto; max-width:500px; width:100%;" />
+  style="display:block; margin: 30px auto; max-width:600px; width:100%;" />
 <span style="display:block; margin-top:10px; font-size: 0.9em; color: #666;">
 An image generated using iterative feedback without collaboration.
 </span>
@@ -136,7 +136,7 @@ I've found that I've enjoyed the process even with my most data-hungry and least
 - using **DRaFT** (https://arxiv.org/abs/2309.17400) with customized prompts.
 
 <p align="center">
-<img src="/images/dpope.png" style="display:block; margin: 30px auto; max-width:500px; width:100%;" />
+<img src="/images/dpope.png" style="display:block; margin: 30px auto; max-width:600px; width:100%;" />
 <span style="display:block; margin-top:10px; font-size: 0.9em; color: #666;">
 An image from my DPO experiment.
 </span>
