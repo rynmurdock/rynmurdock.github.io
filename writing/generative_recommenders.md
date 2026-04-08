@@ -9,6 +9,9 @@ _April 5th, 2024_
 
 ---
 
+<div style="max-width:760px; margin:60px auto; padding:0 20px;">
+  
+
 ## Zahir: Generative Recommenders for Unprompted, Scalable Exploration
 
 > #### To have one’s mind devoured by coins, that is a terrible fate  
@@ -225,3 +228,6 @@ https://dl.acm.org/doi/pdf/10.1145/3479553
 ---
 
 If you feel like I've left something out, feel free to contact me over email :)
+
+
+
