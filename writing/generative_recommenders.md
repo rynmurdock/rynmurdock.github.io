@@ -24,7 +24,8 @@ What does generation look like when we leverage recommendation methods to attemp
 Further, what are the implications of this mix between personalization, preference learning, generation, and recommendation -- and how might it be used within an art practice?
 
 <p align="center">
-<img src="/images/Untitl56321ed.png" alt="An image generated using iterative feedback without collaboration" style="max-width:800px; width:100%;" />
+<img src="/images/Untitl56321ed.png" alt="An image generated using iterative feedback without collaboration" 
+  style="display:block; margin: 30px auto; max-width:800px; width:100%;" />
 </p>
 
 # Some Background
@@ -92,10 +93,11 @@ I've gone through and rated images with this setup multiple times, and although 
 More importantly, running the system iteratively by using images generated from my user embedding that are then added back into the interaction matrix produces results that quickly hone into areas of latent space that I find compelling, even though I'm rating them at that point without collaboration.
 
 <p align="center">
-<img src="/images/U1234ntitled.png" alt="An image generated using iterative feedback without collaboration" style="max-width:500px; width:100%;" />
-
+<img src="/images/U1234ntitled.png" alt="An image generated using iterative feedback without collaboration" 
+  style="display:block; margin: 30px auto; max-width:500px; width:100%;" />
+<span style="display:block; margin-top:10px; font-size: 0.9em; color: #666;">
 An image generated using iterative feedback without collaboration.
-
+</span>
 </p>
 
 
@@ -116,10 +118,10 @@ I've found that I've enjoyed the process even with my most data-hungry and least
 - using **DRaFT** (https://arxiv.org/abs/2309.17400) with customized prompts.
 
 <p align="center">
-<img src="/images/dpope.png" style="max-width:500px; width:100%;" />
-
+<img src="/images/dpope.png" style="display:block; margin: 30px auto; max-width:500px; width:100%;" />
+<span style="display:block; margin-top:10px; font-size: 0.9em; color: #666;">
 An image from my DPO experiment.
-
+</span>
 </p>
 
 
