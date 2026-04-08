@@ -9,8 +9,24 @@ _April 5th, 2024_
 
 ---
 
-<div style="max-width:760px; margin:60px auto; padding:0 20px;">
-  
+<style>
+  body {
+    max-width: 760px;
+    margin: 60px auto;
+    padding: 0 20px;
+    line-height: 1.6;
+  }
+  img {
+    display: block;
+    margin: 30px auto;
+    max-width: 100%;
+    height: auto;
+  }
+  p, ul, ol, h1, h2, h3, h4, h5, h6 {
+    margin-top: 1em;
+    margin-bottom: 1em;
+  }
+</style>  
 
 ## Zahir: Generative Recommenders for Unprompted, Scalable Exploration
 
@@ -229,5 +245,4 @@ https://dl.acm.org/doi/pdf/10.1145/3479553
 
 If you feel like I've left something out, feel free to contact me over email :)
 
-</div>
 
