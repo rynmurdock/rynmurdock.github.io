@@ -40,3 +40,8 @@ This modeling branch of the project has been woefully unsuccessful. Likely due t
 
 I hope folks find this tool useful; please leave feedback in issues, contributions in PRs, and uh I guess wonderful edits in your hearts :D
 
+
+## Thanks
+
+My conversations with Nicholas Bardy, around image editing and reasons to model a creative process, influenced my thinking here quite a bit.
+
