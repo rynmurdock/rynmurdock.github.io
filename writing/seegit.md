@@ -43,5 +43,5 @@ I hope folks find this tool useful; please leave feedback in issues, contributio
 
 ## Thanks
 
-My conversations with Nicholas Bardy, around image editing and reasons to model a creative process, influenced my thinking here quite a bit.
+My conversations with Nicholas Bardy around image editing and reasons to model a creative process influenced my thinking here quite a bit. Always useful and a joy to chat and pull on these threads.
 
