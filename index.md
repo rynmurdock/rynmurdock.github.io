@@ -1,30 +1,22 @@
 ---
 permalink: /
-title: "About"
-excerpt: "What's here"
+title: "Ryan Murdock"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 --- 
 
+I work on AI / Machine Learning with a focus on generative modeling, where I've done foundational research on text-to-image systems and contributed to large-scale projects in industry.
 
+Formerly affiliated with the University of Utah, my Patreon, & Adobe, I'm currently working as a staff research scientist at Canva :)
 
-My recent work is primarily in Machine Learning with a focus on generative models, where I've done foundational research on text-to-image systems -- and worked on large-scale projects that you may have heard of.
+I've also spent time in residency at Stochastic Labs & consulted for Kaiber. 
 
-Formerly affiliated with the University of Utah, my Patreon, & Adobe; I'm currently working as a researcher at Canva :)
+Along with generative modeling, I've worked in and am interested in Materials Informatics, Linguistics, Human & Computer Vision, and art.
 
-I've also spent time in residency at Stochastic Labs & consulted for Kaiber.
-
-
-I'm especially interested in projects that:
-* Mitigate representational bias & other potential harms from generative models at the levels of data, training, inference, & UI,
-* Lower barriers to access to ML systems posed by data-efficiency issues and compute-requirements, and
-* Adapt ML models for creative uses in ways that are process-focused, weird, &/or focus on individual aesthetics.
-
-I'm also interested in & have worked in Art, Psychology, Linguistics, Human & Computer Vision, and Materials Informatics.
-
-For inquiries, contact rynmurdock(at)gmail[dot]com -- note that the lack of an "a" is correct.
+For inquiries, please reach out to rynmurdock(at)gmail[dot]com -- note the lack of an "a" is correct!
 
 # Selected Links of Note
 
@@ -48,5 +40,5 @@ See my [Google Scholar profile](https://scholar.google.com/citations?user=L2Fmp1
 * **ARTnews**: [Surrealism in the Age of AI](https://www.artnews.com/list/art-news/artists/surrealism-and-artificial-intelligence-art-1234704046/this-is-not-a-pipe-why-do-ai-images-look-surreal/)
 * **Architectural Design**: [Machine Hands on Flaws to Machine: The Surprising Sources of Biases in Machine Learning Models](https://onlinelibrary.wiley.com/toc/15542769/2024/94/3)
 * **In Collaboration with Joel Simon**: [New Words](https://www.joelsimon.net/new-words)
-* **All Media is Training Data by Holly Herndon and Mat Dryhurst**: Contributed essay on Subjective Models -- (I have a write-up on this very site about [Generative Recommenders](https://rynmurdock.github.io/writing/generative_recommenders).)
+* **All Media is Training Data by Holly Herndon and Mat Dryhurst**: Contributed essay on Subjective Models -- (I have a write-up where I talk about them as [Generative Recommenders](https://rynmurdock.github.io/writing/generative_recommenders) as well.)
 
