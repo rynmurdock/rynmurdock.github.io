@@ -10,8 +10,8 @@
   img {
     display: block;
     margin: 30px auto;
-    max-width: min(512px, 100%);
-    max-height: min(512px, 100%);
+    max-width: 512px;
+    max-height: 512px;
     width: auto;
     height: auto;
     object-fit: contain;
