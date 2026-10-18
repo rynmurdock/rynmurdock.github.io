@@ -72,7 +72,7 @@ October 21, 2021 with BigSleep
 | | | |
 |---|---|---|
 | <img src="/portfolio/birds.jpg" width="100%" alt="Two figures with long arms and legs."> | <img src="/portfolio/birds1.jpg" width="100%" alt="Three figures eat and sing."> | <img src="/portfolio/birds2.jpg" width="100%" alt="A figure holds another, smaller figure."> |
-| | | |
+
 
 September 7, 2024 with Zahir
 
