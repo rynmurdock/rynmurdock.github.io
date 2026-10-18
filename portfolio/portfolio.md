@@ -10,10 +10,11 @@
   img {
     display: block;
     margin: 30px auto;
-    height: auto;
-    width: auto,
-    max-width: 512px;
+    max-width: min(512px, 100%);
     max-height: 512px;
+    width: auto;
+    height: auto;
+    object-fit: contain;
   }
   p, ul, ol, h1, h2, h3, h4, h5, h6 {
     margin-top: 1em;
