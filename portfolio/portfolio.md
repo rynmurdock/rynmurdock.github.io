@@ -21,7 +21,7 @@
 
 
 ### `an omen` 
-##### (Omens in the suburbs springing up)
+#### (Omens in the suburbs springing up)
 
 <p align="center">
 <img src="/portfolio/`an omen`.png" alt="Birds fly above a structure shaped like an inverted 'L', casting red light & rising above what looks like a gas station in a quiet suburb."
