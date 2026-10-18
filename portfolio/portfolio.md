@@ -22,7 +22,6 @@
   }
 </style>  
 
----
 
 ### `an omen` 
 #### (Omens in the suburbs springing up)
@@ -95,5 +94,3 @@ September 7, 2024 with Zahir
 
 
 May 29, 2025 with Zahir
-
----
