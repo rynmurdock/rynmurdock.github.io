@@ -8,15 +8,9 @@ redirect_from:
   - /about.html
 --- 
 
-I work on AI / Machine Learning with a focus on generative modeling, where I've done foundational research on text-to-image systems and contributed to large-scale projects in industry.
+I work on AI / Machine Learning with a focus on generative modeling, where I've done foundational research on text-to-image systems and contributed to large-scale projects in industry. Formerly affiliated with the University of Utah, my Patreon, & Adobe, I'm currently working as a staff research scientist at Canva :)
 
-Formerly affiliated with the University of Utah, my Patreon, & Adobe, I'm currently working as a staff research scientist at Canva :)
-
-I've also spent time in residency at Stochastic Labs & consulted for Kaiber. 
-
-Along with generative modeling, I've worked in and am interested in Materials Informatics, Linguistics, Human & Computer Vision, and art.
-
-For inquiries, please reach out to rynmurdock(at)gmail[dot]com -- note the lack of an "a" is correct!
+I've also spent time in residency at Stochastic Labs & consulted for Kaiber. Along with generative modeling, I've worked in and am interested in Materials Informatics, Linguistics, Human & Computer Vision, and art. For inquiries, please reach out to rynmurdock(at)gmail[dot]com -- note the lack of an "a" is correct.
 
 # Selected Links of Note
 
@@ -26,7 +20,7 @@ See my [Google Scholar profile](https://scholar.google.com/citations?user=L2Fmp1
 
 ## Portfolio
 
-I've collected a few my visual-art pieces [here](https://rynmurdock.github.io/portfolio/index.md).
+I've collected a few my visual-art pieces [here](https://rynmurdock.github.io/portfolio/portfolio).
 
 
 ## BigSleep Citations
