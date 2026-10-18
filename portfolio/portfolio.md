@@ -2,7 +2,7 @@
 
 <style>
   body {
-    max-width: 1024px;
+    max-width: 768px;
     margin: 60px auto;
     padding: 0 20px;
     line-height: 1.6;
