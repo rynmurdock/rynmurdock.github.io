@@ -60,15 +60,15 @@ October 21, 2021 with BigSleep
 
 
 
-### Triptych
+### Untitled Triptych
 
 <p align="center">
 
 <img src="/portfolio/birds.jpg" alt="Two figures with long arms and legs."
   style="display:block; margin: 30px auto; width:100%;" />
-<img src="/portfolio/birds1.jpg" alt="Three birds eat and sing."
+<img src="/portfolio/birds1.jpg" alt="Three figures eat and sing."
   style="display:block; margin: 30px auto; width:100%;" />
-<img src="/portfolio/birds2.jpg" alt="A bird with two arms holds another, smaller, both looking towards the viewer."
+<img src="/portfolio/birds2.jpg" alt="A figure with two arms holds another, smaller, looking towards the viewer."
   style="display:block; margin: 30px auto; width:100%;" />
 
 
@@ -79,4 +79,13 @@ October 21, 2021 with BigSleep
 
 September 7, 2024 with Zahir
 
+<p align="center">
+<img src="/portfolio/25.webp" alt="Sense of scale is impossible. A gliding form with legs of brittle structure stands above thick grass on paper-cloth background. Behind it is what could be the moon, but may be only inkblot on shoe-box backing."
+  style="display:block; margin: 30px auto; width:100%;" />
+<span style="display:block; margin-top:10px; font-size: 0.9em; color: #666;">
+</span>
+</p>
+
+
+May 29, 2025 with Zahir
 
