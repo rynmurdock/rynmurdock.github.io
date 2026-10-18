@@ -64,6 +64,10 @@ October 21, 2021 with BigSleep
 
 <p align="center">
 
+| | |  |
+|---|---|---|
+| <img src="/images/birds.jpg" width="100%" alt="Two figures with long arms and legs."> | <img src="/images/birds1.jpg" width="100%" "Three figures eat and sing."> | <img src="/images/birds2.jpg" width="100%" "A figure with two arms holds another, smaller, looking towards the viewer."> |
+
 <img src="/portfolio/birds.jpg" alt="Two figures with long arms and legs."
   style="display:block; margin: 30px auto; width:100%;" />
 <img src="/portfolio/birds1.jpg" alt="Three figures eat and sing."
