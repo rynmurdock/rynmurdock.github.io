@@ -84,7 +84,7 @@ October 21, 2021 with BigSleep
 September 7, 2024 with Zahir
 
 <p align="center">
-<img src="/portfolio/25.webp" alt="Sense of scale is impossible. A gliding form with legs of brittle structure stands above thick grass on paper-cloth background. Behind it is what could be the moon, but may be only inkblot on shoe-box backing."
+<img src="/portfolio/25.png" alt="Sense of scale is impossible. A gliding form with legs of brittle structure stands above thick grass on paper-cloth background. Behind it is what could be the moon, but may be only inkblot on shoe-box backing."
   style="display:block; margin: 30px auto; width:100%;" />
 <span style="display:block; margin-top:10px; font-size: 0.9em; color: #666;">
 </span>
