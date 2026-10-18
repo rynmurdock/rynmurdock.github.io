@@ -16,9 +16,7 @@ I've also spent time in residency at Stochastic Labs & consulted for Kaiber. Alo
 
 ### Formal Publications
 
-See my [Google Scholar profile](https://scholar.google.com/citations?user=L2Fmp1AAAAAJ&hl=en) for all of my formal publications. 
-
-The links below are largely unlisted there due to citing my Twitter & Colab notebooks or being in media.
+See my [Google Scholar profile](https://scholar.google.com/citations?user=L2Fmp1AAAAAJ&hl=en) for all of my formal publications. The links below are largely unlisted there due to citing my Twitter & Colab notebooks or being in media.
 
 ### Portfolio
 
