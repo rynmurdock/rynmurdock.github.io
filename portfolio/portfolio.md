@@ -20,7 +20,8 @@
 </style>  
 
 
-### `an omen` (Omens in the suburbs springing up)
+### `an omen` 
+##### (Omens in the suburbs springing up)
 
 <p align="center">
 <img src="/portfolio/`an omen`.png" alt="Birds fly above a structure shaped like an inverted 'L', casting red light & rising above what looks like a gas station in a quiet suburb."
@@ -32,6 +33,7 @@
 
 February 11, 2021 with BigSleep
 
+<br><br><br>
 
 ### `a calm still life in ethereal blue`
 
@@ -46,6 +48,7 @@ February 11, 2021 with BigSleep
 September 24, 2021 with BigSleep
 
 
+<br><br><br>
 
 ### New Times
 
@@ -59,6 +62,7 @@ September 24, 2021 with BigSleep
 October 21, 2021 with BigSleep
 
 
+<br><br><br>
 
 ### Untitled Triptych
 
@@ -67,21 +71,16 @@ October 21, 2021 with BigSleep
 | | |  |
 |---|---|---|
 | <img src="/images/birds.jpg" width="100%" alt="Two figures with long arms and legs."> | <img src="/images/birds1.jpg" width="100%" "Three figures eat and sing."> | <img src="/images/birds2.jpg" width="100%" "A figure with two arms holds another, smaller, looking towards the viewer."> |
-
-<img src="/portfolio/birds.jpg" alt="Two figures with long arms and legs."
-  style="display:block; margin: 30px auto; width:100%;" />
-<img src="/portfolio/birds1.jpg" alt="Three figures eat and sing."
-  style="display:block; margin: 30px auto; width:100%;" />
-<img src="/portfolio/birds2.jpg" alt="A figure with two arms holds another, smaller, looking towards the viewer."
-  style="display:block; margin: 30px auto; width:100%;" />
-
-
 <span style="display:block; margin-top:10px; font-size: 0.9em; color: #666;">
-
 </span>
 </p>
 
 September 7, 2024 with Zahir
+
+
+<br><br><br>
+
+### Untitled
 
 <p align="center">
 <img src="/portfolio/25.png" alt="Sense of scale is impossible. A gliding form with legs of brittle structure stands above thick grass on paper-cloth background. Behind it is what could be the moon, but may be only inkblot on shoe-box backing."
