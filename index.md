@@ -20,7 +20,7 @@ See my [Google Scholar profile](https://scholar.google.com/citations?user=L2Fmp1
 
 ## Portfolio
 
-I've collected a few my visual-art pieces [here](https://rynmurdock.github.io/portfolio/portfolio).
+I've collected a few static visual-art pieces [here](https://rynmurdock.github.io/portfolio/portfolio).
 
 
 ## BigSleep Citations
