@@ -38,7 +38,6 @@ February 11, 2021 with BigSleep
 
 ---
 
-<br><br><br>
 
 ### `a calm still life in ethereal blue`
 
@@ -54,7 +53,6 @@ September 24, 2021 with BigSleep
 
 ---
 
-<br><br><br>
 
 ### New Times
 
@@ -69,7 +67,6 @@ October 21, 2021 with BigSleep
 
 ---
 
-<br><br><br>
 
 ### Untitled Triptych
 
@@ -85,7 +82,6 @@ September 7, 2024 with Zahir
 
 ---
 
-<br><br><br>
 
 ### Untitled
 
