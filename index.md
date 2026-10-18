@@ -24,6 +24,11 @@ For inquiries, please reach out to rynmurdock(at)gmail[dot]com -- note the lack 
 
 See my [Google Scholar profile](https://scholar.google.com/citations?user=L2Fmp1AAAAAJ&hl=en) for all of my formal publications. The links below are largely unlisted there due to citing my Twitter & Colab notebooks or being in media.
 
+## Portfolio
+
+I've collected a few my visual-art pieces [here](https://rynmurdock.github.io/portfolio/index.md).
+
+
 ## BigSleep Citations
 * DALL-E2 [32]: [dall-e-2.pdf](https://cdn.openai.com/papers/dall-e-2.pdf)
 * Diffusion Models Beat GANs [2]: [arxiv-abs-2105.05233](https://arxiv.org/abs/2105.05233)
