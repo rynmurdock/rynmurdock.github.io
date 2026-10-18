@@ -11,7 +11,7 @@
     display: block;
     margin: 30px auto;
     max-width: min(512px, 100%);
-    max-height: 512px;
+    max-height: min(512px, 100%);
     width: auto;
     height: auto;
     object-fit: contain;
