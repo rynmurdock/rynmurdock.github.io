@@ -12,6 +12,8 @@
     margin: 30px auto;
     height: auto;
     width: auto,
+    max-width: 512px;
+    max-height: 512px;
   }
   p, ul, ol, h1, h2, h3, h4, h5, h6 {
     margin-top: 1em;
