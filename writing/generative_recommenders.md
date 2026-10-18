@@ -234,7 +234,7 @@ I may have more thoughts on this through the lens of personalization.
 There are interesting critiques surrounding the idea of providing media that is **never challenging**, posed by Cat Manning & others.
 
 If you're interested in related analysis:
-[Epstien et al., 2021](https://dl.acm.org/doi/pdf/10.1145/3479553)
+[Epstein et al., 2021](https://dl.acm.org/doi/pdf/10.1145/3479553)
 
 ---
 
